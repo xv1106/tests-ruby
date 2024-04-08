@@ -11,7 +11,9 @@ def who_is_bigger(a, b, c)
   end
 
   def array_42(array)
-    array.each { |number| return true if number == 42 }
+    array.each { |number| return true if number == 42 } 
+    #each itère sur chaque nombre compris dans l'array
+    #renvoie true si nombre = 42
     false
   end
   

@@ -1,0 +1,1 @@
+def ftoc(fahrenheit) #On met fahrenh
